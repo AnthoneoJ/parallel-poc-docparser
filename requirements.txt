@@ -1,0 +1,6 @@
+streamlit
+streamlit-aggrid
+rapidfuzz
+pdfplumber
+camelot-py
+pandas
